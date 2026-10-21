@@ -1,0 +1,6 @@
+{
+  "name": "BioKinetic 3D Grand Prix",
+  "description": "High-octane 3D arcade racing simulator powered by biomechanical science, molecular bio-fuel synthesis, real-time physiological telemetry, and dynamic procedural physics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
